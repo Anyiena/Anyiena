@@ -21,10 +21,9 @@
 </div>
 ---
 
-### :man_technologist: About Me :
+### :technologist: About Me :
 I am a Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi, Kenya.
-- :telescope: I’m currently a freelance developer contributing to frontend for building web applications.
-
+- :telescope: Currently freelancing, I specialize in creating captivating frontend interfaces to elevate user satisfaction.
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on  Hackerank and read tech articles.
@@ -47,6 +46,7 @@ I am a Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anyiena&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Anyiena/Anyiena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
