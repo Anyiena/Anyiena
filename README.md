@@ -23,7 +23,7 @@
 
 ### :technologist: About Me :
 I am a Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi, Kenya.
-- :telescope: Currently freelancing, I specialize in creating captivating frontend interfaces to elevate user satisfaction.
+- :telescope: Currently freelancing, I specialize in creating captivating frontend user interfaces that elevates user satisfaction.
 - :seedling: Exploring Technical Content creation.
 
 - :zap: In my free time, I solve problems on  Hackerank and read tech articles.
